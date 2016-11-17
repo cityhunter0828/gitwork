@@ -5,4 +5,5 @@ this is a test4!!!
 this is a test5!!!
 this is a test6!!!!
 this is a branch
-this is a new feature£¡£¡
+Creating a new branch is quick AND simple.
+
